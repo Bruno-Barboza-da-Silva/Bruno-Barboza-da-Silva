@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruno-Barboza-da-Silva
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning HTML5, CSS3 and JavaScript
+- 👀 I’m interested in full-stack web development
+- 🌱 I’m currently learning HTML5, CSS3 and JavaScript, React, Node.js, Express, Mysql
 - 📫 How to reach me brunobarbozasilva@gmail.com
 
 <!---
