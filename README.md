@@ -14,11 +14,10 @@ Olá, eu sou o Bruno, Desenvolvedor Web Full Stack com habilidades em HTML5, CSS
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-
 </div>
 <br>
 
-* Linguagens: HTML5, CSS3, JavaScript 
+* Linguagens: HTML5, CSS3, JavaScript, PHP 
 * Frameworks e Bibliotecas: React, Node.JS, Express
 *	Banco de Dados: MySQL
 *	ORM (Object-Relational Mapping): Sequelize
