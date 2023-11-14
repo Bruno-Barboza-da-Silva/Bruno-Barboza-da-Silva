@@ -1,5 +1,6 @@
 # Sobre mim
-Olá, eu sou o Bruno, Desenvolvedor Web Full Stack com habilidades em HTML5, CSS3, JavaScript, React, Git, GitHub, Node.JS, Express, Sequelize e MySQL. Gosto de oportunidades desafiadoras e busco ativamente aprimorar meu conhecimento e me manter atualizado com as últimas tendências do setor. Sou um aprendiz ao longo da vida, sempre ansioso para adquirir novas habilidades.
+Engenheiro Agrônomo com conhecimentos em desenvolvimento web. No final de 2021, comecei a ter contato com o desenvolvimento front-end de aplicações e desde então descobri a minha aptidão para este mercado. Ao longo do meu aprendizado, consegui aprender diversas tecnologias e também a lógica de programação, que sempre auxilia no aprendizado de novas ferramentas. Gosto de oportunidades desafiadoras e busco ativamente aprimorar meu conhecimento e me manter atualizado com as últimas tendências do setor. Sou um aprendiz ao longo da vida, sempre ansioso para adquirir novas habilidades.
+
 
 # Habilidades Técnicas:
 
@@ -23,7 +24,7 @@ Olá, eu sou o Bruno, Desenvolvedor Web Full Stack com habilidades em HTML5, CSS
 <br>
 
 * Linguagens: HTML5, CSS3, JavaScript, PHP, Typescript 
-* Frameworks e Bibliotecas: React, Node.JS, Express
+* Frameworks e Bibliotecas: React, Node.JS, Express, jQuery
 *	Banco de Dados: MySQL, MongoDB
 *	ORM (Object-Relational Mapping): Sequelize
 *	Controle de Versão: Git, GitHub
